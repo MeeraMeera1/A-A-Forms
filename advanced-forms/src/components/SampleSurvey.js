@@ -3,7 +3,7 @@ import React from "react";
 const SampleSurvey = () => {
   return (
     <div>
-      <h2>SampleSurvey</h2>
+      <h2>Sample Survey</h2>
     </div>
   );
 };
